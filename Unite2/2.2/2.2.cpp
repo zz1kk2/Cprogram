@@ -14,6 +14,6 @@ int main(void)
 	cel = 5 * (fahr - 32) / 9;
 
 
-	printf("fahr=%d,cel=%d",fahr,cel);
+	printf("fahr=%d,cel=%d", fahr, cel);
 	return 0;
 }

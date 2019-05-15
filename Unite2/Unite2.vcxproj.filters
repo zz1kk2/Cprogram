@@ -32,8 +32,8 @@
     <ClCompile Include="2.1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="2.2.cpp">
-      <Filter>源文件\2.2</Filter>
+    <ClCompile Include="2.2\2.2.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
