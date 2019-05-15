@@ -1,0 +1,3 @@
+  #int fahr, cel;		//华氏，摄氏
+	 #fahr = 100;
+	  #cel = 5 * (fahr - 32) / 9;
