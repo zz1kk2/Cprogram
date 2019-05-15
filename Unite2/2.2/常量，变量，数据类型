@@ -1,3 +1,8 @@
-  #int fahr, cel;		//华氏，摄氏
-	 #fahr = 100;
-	  #cel = 5 * (fahr - 32) / 9;
+
+```
+@Override
+protected void onDestroy() {
+    EventBus.getDefault().unregister(this);
+    super.onDestroy();
+}
+``` 
