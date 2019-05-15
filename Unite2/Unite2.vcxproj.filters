@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\2.2">
+      <UniqueIdentifier>{4419087f-3912-46a4-8868-9221e2f2c006}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -25,6 +28,12 @@
     </ClCompile>
     <ClCompile Include="Unite2.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.cpp">
+      <Filter>源文件\2.2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
