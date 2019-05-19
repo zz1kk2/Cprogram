@@ -6,7 +6,7 @@
 求华氏100F对应的摄氏温度，公式：c=5*(f-32)/9
 
 
-*/
+
 int main(void)
 {
 	int fahr, cel;		//华氏，摄氏
@@ -17,3 +17,4 @@ int main(void)
 	printf("fahr=%d,cel=%d", fahr, cel);
 	return 0;
 }
+*/
